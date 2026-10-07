@@ -30,5 +30,5 @@
 8. Plot the R,F,M values from the df dataset as a pairwise scatter plot, grouped by the Group label.
 9. Download this image as a transparent background image with the filename "rfm_pairplot.png".
 10. Download the df in CSV format and save it as "rfm_result.csv".
-## Import code back to Jupyter for local data usage
+## Import code back to Jupyter for local data usage and more modification
 - As title
